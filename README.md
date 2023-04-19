@@ -29,4 +29,5 @@ brew install --cask spotify
 brew install --cask whatsapp
 brew install --cask send-anywhere
 brew install --cask grammarly-desktop
+brew install --cask anaconda
 ```
