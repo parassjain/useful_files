@@ -30,4 +30,5 @@ brew install --cask whatsapp
 brew install --cask send-anywhere
 brew install --cask grammarly-desktop
 brew install --cask anaconda
+brew install --cask authy
 ```
